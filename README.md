@@ -1,5 +1,3 @@
-# Gap-Analysis
-
 # Youth Workshop Gap Analysis
 
 ## Using Public Data to Identify Youth Program Gaps and Recommend Practical Workshop Opportunities
