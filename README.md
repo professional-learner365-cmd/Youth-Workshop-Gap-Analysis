@@ -61,7 +61,9 @@ This project analyzes public program, education, demographic, and volunteering d
 ## Statistics_Canada_Census_Ontario_2021
 - On average Male+ population was larger than Female+ population for persons aged 10 to 24.
 
-📸 **[INSERT SCREENSHOT: Dashboard or chart showing Male+ and Female+ population for persons aged 10 to 24.]**
+## PowerBi Dashboards - Ontario Census 
+
+<img width="837" height="431" alt="image" src="https://github.com/user-attachments/assets/16f34eed-5bf3-46b2-9911-361447ed24e8" />
 
 ---
 
@@ -69,7 +71,8 @@ This project analyzes public program, education, demographic, and volunteering d
 - More students were enrolled in Elementary school compared to Secondary school during the 2024-2025 school year.
 - The Toronto DSB, Peel DSB, York Region DSB and Toronto CDSB had the highest school enrollment for the 2024-2025 school year.
 
-📸 **[INSERT SCREENSHOT: Dashboard section showing Elementary vs Secondary enrolment and/or school boards with the highest enrolment.]**
+<img width="816" height="431" alt="image" src="https://github.com/user-attachments/assets/db2a8c02-3c5b-4017-b389-bcf404c67d00" />
+
 
 ---
 
@@ -77,14 +80,18 @@ This project analyzes public program, education, demographic, and volunteering d
 - This dataset revealed that sports related courses were the most common City of Toronto courses within the Child, Child/Youth, Youth, Youth/Adult and Adult age groups.
 - The least common courses were related to STEM, literacy, public speaking, etc.
 
-📸 **[INSERT SCREENSHOT: Dashboard section showing City of Toronto course topics by age group.]**
+## PowerBi Dashboards - City of Toronto Courses 
+<img width="854" height="430" alt="image" src="https://github.com/user-attachments/assets/70f73f30-826b-469c-8054-154f1550cc0d" />
+
 
 ---
 
 ## TPL_Events_26/27
 - This dataset revealed that the most common events available for a specific age group varied based on the age group being observed. However, the least common events were related to ‘Life Skills’, ‘Literacy’, ’Public Speaking’ and ‘Volunteering’.
 
-📸 **[INSERT SCREENSHOT: Dashboard section showing TPL event topics by age group.]**
+## PowerBi Dashboards - TPL Events
+<img width="829" height="420" alt="image" src="https://github.com/user-attachments/assets/26fe5c23-fbb6-4c24-93e3-09716c6c75e0" />
+
 
 ---
 
@@ -153,6 +160,13 @@ The findings from this project were also considered alongside my **Canadian Yout
 
 ---
 
+## PowerBi Dashboards - Workshop Gaps
+### TPL Events
+<img width="827" height="434" alt="image" src="https://github.com/user-attachments/assets/053f0058-f925-485b-87bf-ec8b2525091b" />
+
+### City of Toronto Courses
+<img width="841" height="426" alt="image" src="https://github.com/user-attachments/assets/edece0ae-aad2-4c8d-9822-23742ceded61" />
+
 # Workshop Ideas
 
 ## Which workshop ideas should be prioritized first?
@@ -195,7 +209,6 @@ The findings from this project were also considered alongside my **Canadian Yout
 - Suggested delivery format: Online
 - Basic success measures: Attendance, Feedback, Expression of Interest in other programs
 
-📸 **[INSERT SCREENSHOT: Gap/opportunity matrix or dashboard section connecting program gaps to recommended workshop opportunities.]**
 
 ---
 
