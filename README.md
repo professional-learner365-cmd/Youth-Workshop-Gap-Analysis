@@ -156,7 +156,9 @@ The findings from this project were also considered alongside my **Canadian Yout
 - Skills-based messaging may help improve recruitment to encourage participation
 - Schools and social media may be useful outreach channels
 
-📸 **[INSERT SCREENSHOT: Visual from the Canadian Youth Volunteer Participation Analysis showing volunteer participation or volunteer hours by age group, especially ages 15-24 and 25-34.]**
+## PowerBi Dashboards - Canadian Youth Volunteer Participation Analysis showing volunteer participation or volunteer hours by age group,  ages 15-24 and 25-34.
+<img width="704" height="404" alt="image" src="https://github.com/user-attachments/assets/53a045e6-4487-4470-8b48-5ed848b11dfe" />
+
 
 ---
 
