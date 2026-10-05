@@ -24,7 +24,11 @@ This project analyzes public program, education, demographic, and volunteering d
 ## What youth workshop topics are already common?
 - Sports and arts
 
-📸 **[INSERT SCREENSHOT: Dashboard section showing program topic/category availability, with Sports and Arts clearly visible.]**
+## PowerBI Dashboards - City of Toronto Courses 
+<img width="854" height="430" alt="image" src="https://github.com/user-attachments/assets/70f73f30-826b-469c-8054-154f1550cc0d" />
+
+## PowerBI Dashboards - TPL Events
+<img width="829" height="420" alt="image" src="https://github.com/user-attachments/assets/26fe5c23-fbb6-4c24-93e3-09716c6c75e0" />
 
 ---
 
