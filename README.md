@@ -42,7 +42,9 @@ This project analyzes public program, education, demographic, and volunteering d
   - TPL: Burrows Hall, Jones, Junction Triangle, Main Street
   - City of Toronto: Albert Campbell Square, Albert Crosland Parkette, Albion Pool and Health Club, Alex Duff Memorial Pool, Armour Heights Community, Art Eggleton, Baird Park, etc.
 
-📸 **[INSERT SCREENSHOT: Dashboard or Excel analysis showing location-based program availability and lower-availability locations.]**
+## PowerBI Dashboards - Location-based program availability and lower-availability locations
+<img width="793" height="428" alt="image" src="https://github.com/user-attachments/assets/35a8ee37-8a44-4215-a555-a59488dbbca5" />
+
 
 ---
 
@@ -61,7 +63,7 @@ This project analyzes public program, education, demographic, and volunteering d
 ## Statistics_Canada_Census_Ontario_2021
 - On average Male+ population was larger than Female+ population for persons aged 10 to 24.
 
-## PowerBi Dashboards - Ontario Census 
+## PowerBI Dashboards - Ontario Census 
 
 <img width="837" height="431" alt="image" src="https://github.com/user-attachments/assets/16f34eed-5bf3-46b2-9911-361447ed24e8" />
 
@@ -71,7 +73,9 @@ This project analyzes public program, education, demographic, and volunteering d
 - More students were enrolled in Elementary school compared to Secondary school during the 2024-2025 school year.
 - The Toronto DSB, Peel DSB, York Region DSB and Toronto CDSB had the highest school enrollment for the 2024-2025 school year.
 
-<img width="816" height="431" alt="image" src="https://github.com/user-attachments/assets/db2a8c02-3c5b-4017-b389-bcf404c67d00" />
+## PowerBI Dashboards - School Enrollment Elementary vs Secondary School
+<img width="793" height="428" alt="image" src="https://github.com/user-attachments/assets/35a8ee37-8a44-4215-a555-a59488dbbca5" />
+
 
 
 ---
@@ -80,7 +84,7 @@ This project analyzes public program, education, demographic, and volunteering d
 - This dataset revealed that sports related courses were the most common City of Toronto courses within the Child, Child/Youth, Youth, Youth/Adult and Adult age groups.
 - The least common courses were related to STEM, literacy, public speaking, etc.
 
-## PowerBi Dashboards - City of Toronto Courses 
+## PowerBI Dashboards - City of Toronto Courses 
 <img width="854" height="430" alt="image" src="https://github.com/user-attachments/assets/70f73f30-826b-469c-8054-154f1550cc0d" />
 
 
@@ -89,7 +93,7 @@ This project analyzes public program, education, demographic, and volunteering d
 ## TPL_Events_26/27
 - This dataset revealed that the most common events available for a specific age group varied based on the age group being observed. However, the least common events were related to ‘Life Skills’, ‘Literacy’, ’Public Speaking’ and ‘Volunteering’.
 
-## PowerBi Dashboards - TPL Events
+## PowerBI Dashboards - TPL Events
 <img width="829" height="420" alt="image" src="https://github.com/user-attachments/assets/26fe5c23-fbb6-4c24-93e3-09716c6c75e0" />
 
 
@@ -156,13 +160,13 @@ The findings from this project were also considered alongside my **Canadian Yout
 - Skills-based messaging may help improve recruitment to encourage participation
 - Schools and social media may be useful outreach channels
 
-## PowerBi Dashboards - Canadian Youth Volunteer Participation Analysis showing volunteer participation or volunteer hours by age group,  ages 15-24 and 25-34.
+## PowerBI Dashboards - Canadian Youth Volunteer Participation Analysis showing volunteer participation or volunteer hours by age group,  ages 15-24 and 25-34.
 <img width="704" height="404" alt="image" src="https://github.com/user-attachments/assets/53a045e6-4487-4470-8b48-5ed848b11dfe" />
 
 
 ---
 
-## PowerBi Dashboards - Workshop Gaps
+## PowerBI Dashboards - Workshop Gaps
 ### TPL Events
 <img width="827" height="434" alt="image" src="https://github.com/user-attachments/assets/053f0058-f925-485b-87bf-ec8b2525091b" />
 
