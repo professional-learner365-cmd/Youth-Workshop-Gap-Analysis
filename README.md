@@ -17,6 +17,10 @@ This project analyzes public program, education, demographic, and volunteering d
 
 📸 **[INSERT SCREENSHOT: Dashboard overview showing the strongest visuals for program topics, age groups and opportunity areas.]**
 
+## PowerBI Dashboard - Overview
+<img width="825" height="409" alt="image" src="https://github.com/user-attachments/assets/b7b92eb8-3ea4-4d35-a7ea-b04695484424" />
+
+
 ---
 
 # How I Turned the Data Into Decisions
