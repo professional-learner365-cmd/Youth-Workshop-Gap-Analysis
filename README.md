@@ -15,8 +15,6 @@ This project analyzes public program, education, demographic, and volunteering d
 - The most underserved age group is: 18-24 and the youth/adult age groups.
 - Employment/Life Skills, Leadership, Public Speaking and Online were identified as areas to prioritize first.
 
-📸 **[INSERT SCREENSHOT: Dashboard overview showing the strongest visuals for program topics, age groups and opportunity areas.]**
-
 ## PowerBI Dashboard - Overview
 <img width="825" height="409" alt="image" src="https://github.com/user-attachments/assets/b7b92eb8-3ea4-4d35-a7ea-b04695484424" />
 
